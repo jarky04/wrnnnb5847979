@@ -12,3 +12,6 @@
 // 电子书 前端工程化 地址
 链接：https://pan.baidu.com/s/1fh6010rWB8_CULAk1KQE-g                                
 提取码：pvip     
+
+查看自己的IP地址：
+https://whoer.net/zh
