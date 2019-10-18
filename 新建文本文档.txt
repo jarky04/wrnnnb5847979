@@ -16,5 +16,5 @@
 查看自己的IP地址：
 https://whoer.net/zh
 
-// 很好的一个 docsify文档
+// 很好的一个 docsify文档现成
 https://www.jianshu.com/p/88e70f32b049
