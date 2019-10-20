@@ -21,3 +21,6 @@ https://www.jianshu.com/p/88e70f32b049
 
 // app 下载链接
 http://fhapp168h.com/eipeyipeyi/index-125.html
+
+// vuepress demo连接 
+https://github.com/PanJiaChen/vue-element-admin-site
