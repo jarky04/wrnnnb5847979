@@ -28,3 +28,6 @@ https://github.com/PanJiaChen/vue-element-admin-site
 
 js面试技巧步骤规划路线：
 https://coding.imooc.com/learningpath/route?pathId=27
+
+MAC系统使用之推荐软件下载网站
+https://www.jianshu.com/p/29c756570581
