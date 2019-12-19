@@ -31,3 +31,6 @@ https://coding.imooc.com/learningpath/route?pathId=27
 
 MAC系统使用之推荐软件下载网站
 https://www.jianshu.com/p/29c756570581
+
+git地址：
+https://git.fhptbet.com/root/fhptweb/blob/master/web/views/mobileTemplate/0/home/index.html
